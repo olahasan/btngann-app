@@ -4,7 +4,7 @@ import Form from "./Components/Form/Form";
 function App() {
   return (
     <div className="App">
-      welcome to the app ola new try
+      <h1>ttt</h1>
       <Form />
     </div>
   );
