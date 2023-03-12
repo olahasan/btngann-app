@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/btngann-app/static/css/main.345ec4e7.css",
+    "main.js": "/btngann-app/static/js/main.1202ee3b.js",
+    "static/js/787.11e27890.chunk.js": "/btngann-app/static/js/787.11e27890.chunk.js",
+    "index.html": "/btngann-app/index.html",
+    "main.345ec4e7.css.map": "/btngann-app/static/css/main.345ec4e7.css.map",
+    "main.1202ee3b.js.map": "/btngann-app/static/js/main.1202ee3b.js.map",
+    "787.11e27890.chunk.js.map": "/btngann-app/static/js/787.11e27890.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.345ec4e7.css",
+    "static/js/main.1202ee3b.js"
+  ]
+}
