@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# uncompleted-Todo-List-for-trying
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+in this simple Todo List application itryied to use [hooks and react-bootstrap] and tryied to send props, at the end i tryed to push it using github+gh-pages. It allows users to add and delete todo items. the app is uncompleted because it was uncompleted.
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+- [Features](#Features)
+- [Components](#Components)
+  - [App](#App)
+  - [form](#form)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Links](#Links)
+- [Screenshot](#Screenshot)
+- [What I learned](#what-i-learned)
+- [Continued development](#continued-development)
+- [Author](#author)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## overview
+in this simple Todo List application itryied to use [hooks and react-bootstrap] and tryied to send props, at the end i tryed to push it using github+gh-pages. It allows users to add and delete todo items. the app is uncompleted because it was uncompleted.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Features
+- Add new todo items
+- Delete existing todo items
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Components
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### App
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The main component that show form component on screen
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### form
 
-### `npm run eject`
+it contains the whole logic
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Installation
+To get started with this project, follow these steps:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+you can clone the project or download it as Zip file.
+1. Clone the repository:
+   ```bash
+   git clone 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2. Navigate to the project directory:
+   cd <project-directory>
 
-## Learn More
+3. Install the required dependencies:
+   npm install   
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Usage
+To run the application, use the following command:
 
-### Code Splitting
+npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Links
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+If you want to open the link in a new tab, you can:
 
-### Making a Progressive Web App
+- Press **Ctrl** (or **Cmd** on Mac) while clicking the link.
+- Right-click the link and select **Open link in new tab**.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Otherwise, all links will open in the same tab.
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Solution URL: [here]()
 
-### Deployment
+- Live Site URL: [here]()
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+ ## Screenshot
+ 
+![Screenshot](./public/todoList.png)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## what-i-learned
+Through this project, I learned in this simple project how to create react app,
+how to add and delete item and how to deploy it on github+gh-pages
+
+## Continued Development
+In the future, I plan to:
+- learn more reactJs Hooks.
+
+### Author
+
+GitHub - @olahasan
