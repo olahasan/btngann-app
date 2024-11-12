@@ -1,6 +1,6 @@
 # uncompleted-Todo-List-for-trying
 
-in this simple Todo List application itryied to use [hooks and react-bootstrap] and tryied to send props, at the end i tryed to push it using github+gh-pages. It allows users to add and delete todo items. the app is uncompleted because it was uncompleted.
+in this simple Todo List application itryied to use [hooks and react-bootstrap] and tryied to send props, at the end i tryed to push it using github+gh-pages but after i changed the name of repo on gethub the live-like failed. It allows users to add and delete todo items. the app is uncompleted because it was uncompleted.
 
 ## Table of contents
 
@@ -44,7 +44,7 @@ To get started with this project, follow these steps:
 you can clone the project or download it as Zip file.
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/olahasan/uncompleted-Todo-List-for-trying.git
 
 2. Navigate to the project directory:
    cd <project-directory>
@@ -69,13 +69,13 @@ If you want to open the link in a new tab, you can:
 Otherwise, all links will open in the same tab.
 
 
-- Solution URL: [here]()
+- Solution URL: [here](https://github.com/olahasan/uncompleted-Todo-List-for-trying)
 
-- Live Site URL: [here]()
+- Live Site URL: [here](https://btangannnnn-app-v222.netlify.app/)
 
  ## Screenshot
  
-![Screenshot](./public/todoList.png)
+![Screenshot](./public/todolist.png)
 
 
 ## what-i-learned
